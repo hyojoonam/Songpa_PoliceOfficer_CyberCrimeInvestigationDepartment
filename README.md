@@ -20,6 +20,23 @@ e프라이버시(https://www.eprivacy.go.kr)
 NICE신용지키미(일부유료)(https://www.credit.co.kr)
 
 
+### 다섯째, 주민등록증 재발급 하기 
+
+주민센터 또는 민원25시(https://www.gov.kr/mw/AA020InfoCappView.do?HighCtgCD=A01010&CappBizCD=13100000018&tp_seq=01)에서 재발급신청 
+
+
+### 여섯째, 내 핸드폰에 악성앱이 설치되어 있는지 점검하기 -> 시티즌 코난 앱 다운로드(현재 안드로이드 버젼만 지원) 
+
+구글 안드로이드 사용자(android)(https://play.google.com/store/apps/details?id=com.infinigru.police.phishingeyes&hl=ko) 
+
+아이폰 버젼(iOS)은 현재 미출시. 
+
+
+### 일곱째, 개인정보노출자신고 -> 금융기관에서 내 명의로 금융거래 일부를 제한하는 방법 
+
+개인정보노출자 사고예방시스템(https://pd.fss.or.kr/)
+
+
 
 ## 예방옵션 ## 
 
