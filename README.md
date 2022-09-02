@@ -6,7 +6,9 @@
 ### 첫째, 내 명의로 "대포폰" 개설되어있는지 확인
 
 <a href="https://www.msafer.or.kr" target="_blank">엠세이퍼</a>
+[엠세이퍼](https://www.msafer.or.kr){:target="_blank"}
 
+[링크이름](https://www.google.co.kr/){:target="_blank"}
 
 ### 둘째, 다른 은행에 내 명의로 "대포통장"이 개설되어 있는지 확인하기
 
