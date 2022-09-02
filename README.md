@@ -44,7 +44,7 @@
 ## 예방옵션 ## 
 
 ### 1. 더 이상 피해가 없도록 하기 위해서 '신용정보조회 중지 신청' 하기 ### 
- [나이스인포 https://www.niceinfo.co.kr] https://www.niceinfo.co.kr)
+ [나이스인포 https://www.niceinfo.co.kr]https://www.niceinfo.co.kr)
 
 
 ### 2.명의 도용자가 분실된 신분증을 이용하여 금융기관에서 대출을 받는 금융사기를 예방
