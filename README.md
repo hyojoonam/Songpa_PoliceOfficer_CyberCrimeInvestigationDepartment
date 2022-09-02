@@ -24,12 +24,12 @@
 
 ### 다섯째, 주민등록증 '재발급' 하기 
 
-  [주민센터 또는 민원25시 https://www.gov.kr](https://www.gov.kr)에서 재발급신청 
+  [주민센터 또는 민원25시 https://www.gov.kr](https://www.gov.kr) 에서 재발급신청 
 
 
 ### 여섯째, 내 핸드폰에 악성앱이 설치되어 있는지 점검하기 -> '시티즌 코난' 앱 다운로드(현재 안드로이드 버젼만 지원) 
 
-  [구글 안드로이드 사용자 android](https://play.google.com/store/apps/details?id=com.infinigru.police.phishingeyes&hl=ko) 
+  [구글 안드로이드 사용자- android용 시티즌 코난](https://play.google.com/store/apps/details?id=com.infinigru.police.phishingeyes&hl=ko) 
 
   #### 아이폰 버젼(iOS)은 현재 미출시. 
 
