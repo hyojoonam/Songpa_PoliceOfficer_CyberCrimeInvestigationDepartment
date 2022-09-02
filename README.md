@@ -29,14 +29,14 @@
 
 ### 여섯째, 내 핸드폰에 악성앱이 설치되어 있는지 점검하기 -> '시티즌 코난' 앱 다운로드(현재 안드로이드 버젼만 지원) 
 
-  [구글 안드로이드 사용자(android) https://play.google.com/store/apps/details?id=com.infinigru.police.phishingeyes&hl=ko] https://play.google.com/store/apps/details?id=com.infinigru.police.phishingeyes&hl=ko) 
+  [구글 안드로이드 사용자(android) https://play.google.com/store/apps/details?id=com.infinigru.police.phishingeyes&hl=ko](https://play.google.com/store/apps/details?id=com.infinigru.police.phishingeyes&hl=ko) 
 
   아이폰 버젼(iOS)은 현재 미출시. 
 
 
 ### 일곱째, 개인정보노출자신고 -> 금융기관에서 내 명의로 금융거래 일부를 제한하는 방법 
 
-  [개인정보노출자 사고예방시스템 https://pd.fss.or.kr/](https://pd.fss.or.kr/)
+  [개인정보노출자 사고예방시스템 https://pd.fss.or.kr](https://pd.fss.or.kr/)
 
 
 
@@ -44,7 +44,7 @@
 ## 예방옵션 ## 
 
 ### 1. 더 이상 피해가 없도록 하기 위해서 '신용정보조회 중지 신청' 하기 ### 
- [나이스인포 https://www.niceinfo.co.kr]https://www.niceinfo.co.kr)
+ [나이스인포 https://www.niceinfo.co.kr](https://www.niceinfo.co.kr)
 
 
 ### 2.명의 도용자가 분실된 신분증을 이용하여 금융기관에서 대출을 받는 금융사기를 예방
