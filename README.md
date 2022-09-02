@@ -19,7 +19,7 @@
 
 ### 넷째, 나도 모르게 내 개인정보로 "대출이 발생"되었는지 확인하기
 
-  [NICE신용지키미<일부유료> https://www.credit.co.kr](https://www.credit.co.kr)
+  [NICE신용지키미 https://www.credit.co.kr](https://www.credit.co.kr)<일부유료>
 
 
 ### 다섯째, 주민등록증 '재발급' 하기 
@@ -29,7 +29,7 @@
 
 ### 여섯째, 내 핸드폰에 악성앱이 설치되어 있는지 점검하기 -> '시티즌 코난' 앱 다운로드(현재 안드로이드 버젼만 지원) 
 
-  [구글 안드로이드 사용자<android> https://play.google.com/store/apps/details?id=com.infinigru.police.phishingeyes&hl=ko](https://play.google.com/store/apps/details?id=com.infinigru.police.phishingeyes&hl=ko) 
+  [구글 안드로이드 사용자<android>](https://play.google.com/store/apps/details?id=com.infinigru.police.phishingeyes&hl=ko) 
 
   아이폰 버젼(iOS)은 현재 미출시. 
 
